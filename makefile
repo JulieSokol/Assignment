@@ -4,6 +4,6 @@ README.md: guessinggame.sh
 	wc -l < guessinggame.sh >> README.md
 	echo "\n*Date & time of the last *make* run:*\n" >> README.md
 	date -R >> README.md
-	echo "\n:whale:" >> README.md	
+	
 
 
